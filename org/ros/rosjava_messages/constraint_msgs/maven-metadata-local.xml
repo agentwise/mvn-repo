@@ -3,10 +3,11 @@
   <groupId>org.ros.rosjava_messages</groupId>
   <artifactId>constraint_msgs</artifactId>
   <versioning>
-    <release>0.0.1</release>
+    <release>0.0.2</release>
     <versions>
       <version>0.0.1</version>
+      <version>0.0.2</version>
     </versions>
-    <lastUpdated>20161013142249</lastUpdated>
+    <lastUpdated>20161024161236</lastUpdated>
   </versioning>
 </metadata>
