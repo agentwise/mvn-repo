@@ -3,14 +3,15 @@
   <groupId>io.github.agentwise.swarmview.trajectory</groupId>
   <artifactId>swarmview-trajectory</artifactId>
   <versioning>
-    <release>1.1.4</release>
+    <release>1.1.5</release>
     <versions>
       <version>1.1.0-SNAPSHOT</version>
       <version>1.1-SNAPSHOT</version>
       <version>1.1.2</version>
       <version>1.1.3</version>
       <version>1.1.4</version>
+      <version>1.1.5</version>
     </versions>
-    <lastUpdated>20161120185452</lastUpdated>
+    <lastUpdated>20161120191638</lastUpdated>
   </versioning>
 </metadata>
